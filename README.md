@@ -5,4 +5,4 @@
 
 **Experience the Color Flipper project firsthand by cloning and running it in your browser! Immerse yourself in the interactive world of color as you witness the seamless transition between hues with each click. Dive into the codebase and explore the mechanics behind this mesmerizing display of randomness. Unleash your creativity and customize the project to suit your preferences. Get ready to embark on a colorful journey like never before!**
 
-Git Clone 
+**Git Clone https://github.com/PoojaGadara/Color-Flipper.git**
