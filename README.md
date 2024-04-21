@@ -1,3 +1,6 @@
+
+**Project Language - Vanila Javascript **
+
 **Introducing the Color Flipper project! With a simple click, watch as vibrant hues dance across the screen, transforming the background into a captivating kaleidoscope of colors. Experience the magic of randomness as each click unveils a new palette, adding excitement to your browsing experience. Say goodbye to monotony and embrace the dynamic energy of ever-changing colors. Elevate your visual journey with the Color Flipper today**
 
 
